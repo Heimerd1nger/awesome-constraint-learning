@@ -1,0 +1,20 @@
+{
+    "title": "Data Augmentation",
+    "paper": [
+        {
+            "venue": "CVPR 2015",
+            "name": "Hyper-class Augmented and Regularized Deep Learning for Fine-grained Image Classification",
+            "affiliation": "UCSD",
+            "link": "https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xie_Hyper-Class_Augmented_and_2015_CVPR_paper.pdf"
+        },
+        {
+            "venue": "NIPS 2021",
+            "name": "Controlling Neural Networks with Rule Representations",
+            "affiliation": "Google",
+            "link": "https://proceedings.neurips.cc/paper/2021/file/5cd5058bca53951ffa7801bcdf421651-Paper.pdf"
+        }
+    ]
+    
+
+
+}

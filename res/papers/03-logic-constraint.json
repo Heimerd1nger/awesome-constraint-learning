@@ -1,0 +1,17 @@
+{
+    "title": "Logical Constraints",
+    "paper": [
+        {
+            "venue": "NIPS 2023",
+            "name": "A Pseudo-Semantic Loss for Autoregressive Models with Logical Constraints",
+            "affiliation": "UCLA",
+            "link": "https://arxiv.org/pdf/2312.03905.pdf"
+        },
+        {
+            "venue": "ACL 2016",
+            "name": "Harnessing Deep Neural Networks with Logic Rules",
+            "affiliation": "CMU",
+            "link": "https://arxiv.org/pdf/1603.06318.pdf"
+        }
+    ]
+}

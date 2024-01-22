@@ -1,0 +1,11 @@
+{
+    "title": "Survey Papers",
+    "paper": [
+        {
+            "name": "Deep Learning with Logical Constraints",
+            "venue": "IJCAI 2022",
+            "affiliation": "University of Oxford",
+            "link": "https://arxiv.org/pdf/2205.00523.pdf"
+        }
+    ]
+}
