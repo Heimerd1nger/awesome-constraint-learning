@@ -2,17 +2,15 @@
 
 A list of awesome resources related to constraint learning within the supervised learning paradigm
 ## Contents
-- [Awesome-Constraint-Learning ](#awesome-constraint-learning-)
-  - [Contents](#contents)
-  - [Papers](#papers)
-    - [Survey Papers](#survey-papers)
-    - [Data Augmentation](#data-augmentation)
-    - [Logical Constraints](#logical-constraints)
+- [Papers](#papers)
+  - [Survey Papers](#survey-papers)
+  - [Data Augmentation](#data-augmentation)
+  - [Logical Constraints](#logical-constraints)
 ## Papers
 ### Survey Papers
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
-|IJCAI 2022|Deep Learning with Logical Constraints|University of Oxford| [[paper]](https://arxiv.org/pdf/2205.00523.pdf)![Scholar citations](https://img.shields.io/badge/Citations-36-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|IJCAI 2022|Deep Learning with Logical Constraints|University of Oxford| [[paper]](https://arxiv.org/pdf/2205.00523.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Data Augmentation
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
