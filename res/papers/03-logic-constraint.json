@@ -12,6 +12,18 @@
             "name": "Harnessing Deep Neural Networks with Logic Rules",
             "affiliation": "CMU",
             "link": "https://arxiv.org/pdf/1603.06318.pdf"
-        }
+        },
+        {
+            "venue": "Artificial intelligence 1994",
+            "name": "Knowledge-based artificial neural networks",
+            "affiliation": "UW–Madison",
+            "link": "https://www.inf.ufrgs.br/~engel/data/media/file/cmp121/kbann-artigo.pdf"
+        },
+        {
+            "venue": "Applied Intelligence 1999",
+            "name": "The Connectionist Inductive Learning and Logic Programming System",
+            "affiliation": "IC",
+            "link": "https://link.springer.com/article/10.1023/A:1008328630915"
+        }   
     ]
 }
