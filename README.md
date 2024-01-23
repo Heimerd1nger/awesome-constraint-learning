@@ -11,6 +11,8 @@ A list of awesome resources related to constraint learning within the supervised
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |IJCAI 2022|Deep Learning with Logical Constraints|University of Oxford| [[paper]](https://arxiv.org/pdf/2205.00523.pdf)![Scholar citations](https://img.shields.io/badge/Citations-37-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|TKDE 2019|Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems|Fraunhofer IAIS| [[paper]](https://arxiv.org/pdf/1903.12394.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|Scientific Reports 2022|A Review of Some Techniques for Inclusion of Domain-Knowledge into DeepNeural Networks|| [[paper]](https://www.nature.com/articles/s41598-021-04590-0)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Data Augmentation
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
