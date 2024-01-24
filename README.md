@@ -11,8 +11,8 @@ A list of awesome resources related to constraint learning within the supervised
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |IJCAI 2022|Deep Learning with Logical Constraints|University of Oxford| [[paper]](https://arxiv.org/pdf/2205.00523.pdf)![Scholar citations](https://img.shields.io/badge/Citations-37-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|TKDE 2019|Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems|Fraunhofer IAIS| [[paper]](https://arxiv.org/pdf/1903.12394.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|Scientific Reports 2022|A Review of Some Techniques for Inclusion of Domain-Knowledge into DeepNeural Networks|| [[paper]](https://www.nature.com/articles/s41598-021-04590-0)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|TKDE 2019|Informed machine learning-a taxonomy and survey of integrating prior knowledge into learning systems|Fraunhofer IAIS| [[paper]](https://arxiv.org/pdf/1903.12394.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|Scientific Reports 2022|A review of some techniques for inclusion of domain-knowledge into deep neural networks|| [[paper]](https://www.nature.com/articles/s41598-021-04590-0)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Data Augmentation
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
@@ -23,5 +23,4 @@ A list of awesome resources related to constraint learning within the supervised
 | :---: | :---: | :---------: | :---: | :----: |
 |NIPS 2023|A Pseudo-Semantic Loss for Autoregressive Models with Logical Constraints|UCLA| [[paper]](https://arxiv.org/pdf/2312.03905.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |ACL 2016|Harnessing Deep Neural Networks with Logic Rules|CMU| [[paper]](https://arxiv.org/pdf/1603.06318.pdf)![Scholar citations](https://img.shields.io/badge/Citations-727-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|Artificial intelligence 1994|Knowledge-based artificial neural networks|UW–Madison| [[paper]](https://www.inf.ufrgs.br/~engel/data/media/file/cmp121/kbann-artigo.pdf)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |Applied Intelligence 1999|The Connectionist Inductive Learning and Logic Programming System|IC| [[paper]](https://link.springer.com/article/10.1023/A:1008328630915)![Scholar citations](https://img.shields.io/badge/Citations-232-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
