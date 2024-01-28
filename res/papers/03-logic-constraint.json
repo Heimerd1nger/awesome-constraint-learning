@@ -6,7 +6,7 @@
             "name": "A Pseudo-Semantic Loss for Autoregressive Models with Logical Constraints",
             "affiliation": "UCLA",
             "link": "https://arxiv.org/pdf/2312.03905.pdf",
-            "source": "github.com/UCLA-StarAI/PseudoSL"
+            "source": "https://github.com/UCLA-StarAI/PseudoSL"
         },
         {
             "venue": "ACL 2016",
@@ -32,7 +32,8 @@
             "venue": "NAACL 2021",
             "name": "Neurologic decoding:(un) supervised neural text generation with predicate logic constraints",
             "affiliation": "UW",
-            "source": "https://arxiv.org/pdf/2010.12884.pdf"
+            "link": "https://arxiv.org/pdf/2010.12884.pdf",
+            "source": "https://github.com/GXimingLu/neurologic_decoding"
         }  
     ]
 }
