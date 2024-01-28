@@ -18,6 +18,18 @@
             "name": "The Connectionist Inductive Learning and Logic Programming System",
             "affiliation": "IC",
             "link": "https://link.springer.com/article/10.1023/A:1008328630915"
-        }   
+        },
+        {
+            "venue": "ICML 2018",
+            "name": "A Semantic Loss Function for Deep Learning with Symbolic Knowledge",
+            "affiliation": "UCLA",
+            "link": "https://proceedings.mlr.press/v80/xu18h/xu18h.pdf"
+        },
+        {
+            "venue": "NAACL 2021",
+            "name": "Neurologic decoding:(un) supervised neural text generation with predicate logic constraints",
+            "affiliation": "UW",
+            "link": "https://arxiv.org/pdf/2010.12884.pdf"
+        }  
     ]
 }
