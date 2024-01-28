@@ -5,13 +5,15 @@
             "venue": "NIPS 2023",
             "name": "A Pseudo-Semantic Loss for Autoregressive Models with Logical Constraints",
             "affiliation": "UCLA",
-            "link": "https://arxiv.org/pdf/2312.03905.pdf"
+            "link": "https://arxiv.org/pdf/2312.03905.pdf",
+            "code": "github.com/UCLA-StarAI/PseudoSL"
         },
         {
             "venue": "ACL 2016",
             "name": "Harnessing Deep Neural Networks with Logic Rules",
             "affiliation": "CMU",
-            "link": "https://arxiv.org/pdf/1603.06318.pdf"
+            "link": "https://arxiv.org/pdf/1603.06318.pdf",
+            "code": "https://github.com/ZhitingHu/logicnn"
         },
         {
             "venue": "Applied Intelligence 1999",
@@ -23,7 +25,8 @@
             "venue": "ICML 2018",
             "name": "A Semantic Loss Function for Deep Learning with Symbolic Knowledge",
             "affiliation": "UCLA",
-            "link": "https://proceedings.mlr.press/v80/xu18h/xu18h.pdf"
+            "link": "https://proceedings.mlr.press/v80/xu18h/xu18h.pdf",
+            "code": "https://github.com/UCLA-StarAI/Semantic-Loss"
         },
         {
             "venue": "NAACL 2021",
