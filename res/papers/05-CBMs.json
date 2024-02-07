@@ -1,0 +1,26 @@
+{
+    "title": "Concept bottleneck models",
+    "paper": [
+        {
+            "name": "CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning",
+            "venue": "ICML 2020",
+            "affiliation": "Standard University",
+            "link": "https://arxiv.org/pdf/2007.04612.pdf",
+            "source": "https://github.com/yewsiang/ConceptBottleneck"
+        },
+        {
+            "name": "POST-HOC CONCEPT BOTTLENECK MODELS",
+            "venue": "ICLR 2023",
+            "affiliation": "Standard University",
+            "link": "https://arxiv.org/pdf/2205.15480.pdf",
+            "source": "https://github.com/mertyg/post-hoc-cbm"
+        },
+        {
+            "name": "Dividing and Conquering a BlackBox to a Mixture of Interpretable Models: Route, Interpret, Repeat",
+            "venue": "ICML 2023",
+            "affiliation": "BU",
+            "link": "https://arxiv.org/pdf/2307.05350.pdf",
+            "source": "https://github.com/batmanlab/ICML-2023-Route-interpret-repeat"
+        }
+    ]
+}
