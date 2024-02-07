@@ -1,0 +1,11 @@
+{
+    "title": "Benchmark",
+    "paper": [
+        {
+            "name": "CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning",
+            "venue": "EMNLP 2020",
+            "affiliation": "USC",
+            "link": "https://arxiv.org/pdf/1911.03705.pdf"
+        }
+    ]
+}
