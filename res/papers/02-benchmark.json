@@ -7,13 +7,6 @@
             "affiliation": "USC",
             "link": "https://arxiv.org/pdf/1911.03705.pdf",
             "source": "https://github.com/INK-USC/CommonGen"
-        },
-        {
-            "name": "Extending the WILDS Benchmark for Unsupervised Adaptation",
-            "venue": "ICLR 2022",
-            "affiliation": "Stanford",
-            "link": "https://openreview.net/pdf?id=z7p2V6KROOV",
-            "source": "https://wilds.stanford.edu/"
         }
     ]
 }
