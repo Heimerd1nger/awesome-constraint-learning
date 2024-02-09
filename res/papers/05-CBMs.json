@@ -28,6 +28,40 @@
             "affiliation": "UPENN",
             "link": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.pdf",
             "source": "https://github.com/YueYANG1996/LaBo"
+        },
+        {
+            "name": "Label-free Concept Bottleneck Models",
+            "venue": "ICLR 2023",
+            "affiliation": "UCSD",
+            "link": "https://openreview.net/pdf?id=FlCg47MNvBA",
+            "source": "https://github.com/Trustworthy-ML-Lab/Label-free-CBM"
+        },
+        {
+            "name": "Interactive Concept Bottleneck Models",
+            "venue": "AAAI 2023",
+            "affiliation": "Google",
+            "link": "https://arxiv.org/pdf/2212.07430.pdf",
+            "source": "https://github.com/google-research/google-research/tree/master/interactive_cbms"
+        },      
+        {
+            "name": "Addressing Leakage in Concept Bottleneck Models",
+            "venue": "NIPS 2022",
+            "affiliation": "Harvard University",
+            "link": "https://finale.seas.harvard.edu/sites/scholar.harvard.edu/files/finale/files/10494_addressing_leakage_in_concept_.pdf",
+            "source": "https://github.com/dtak/addressing-leakage"
+        },
+        {
+            "name": "Promises and Pitfalls of Black-Box Concept Learning Models",
+            "venue": "ICML 2021",
+            "affiliation": "Harvard University",
+            "link": "https://arxiv.org/pdf/2106.13314.pdf"        
+        },
+        {
+            "name": "Editing a classifier by rewriting its prediction rules",
+            "venue": "NIPS 2021",
+            "affiliation": "MIT",
+            "link": "https://proceedings.neurips.cc/paper/2021/file/c46489a2d5a9a9ecfc53b17610926ddd-Paper.pdf",
+            "source": "https://github.com/MadryLab/EditingClassifiers"             
         }
     ]
 }
