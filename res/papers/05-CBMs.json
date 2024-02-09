@@ -2,7 +2,7 @@
     "title": "Concept bottleneck models",
     "paper": [
         {
-            "name": "CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning",
+            "name": "Concept Bottleneck Models",
             "venue": "ICML 2020",
             "affiliation": "Standard University",
             "link": "https://arxiv.org/pdf/2007.04612.pdf",
@@ -21,6 +21,13 @@
             "affiliation": "BU",
             "link": "https://arxiv.org/pdf/2307.05350.pdf",
             "source": "https://github.com/batmanlab/ICML-2023-Route-interpret-repeat"
+        },
+        {
+            "name": "Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification",
+            "venue": "CVPR 2023",
+            "affiliation": "UPENN",
+            "link": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Language_in_a_Bottle_Language_Model_Guided_Concept_Bottlenecks_for_CVPR_2023_paper.pdf",
+            "source": "https://github.com/YueYANG1996/LaBo"
         }
     ]
 }
