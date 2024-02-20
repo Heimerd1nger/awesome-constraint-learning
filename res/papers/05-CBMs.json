@@ -57,13 +57,6 @@
             "link": "https://arxiv.org/pdf/2106.13314.pdf"        
         },
         {
-            "name": "Editing a classifier by rewriting its prediction rules",
-            "venue": "NIPS 2021",
-            "affiliation": "MIT",
-            "link": "https://proceedings.neurips.cc/paper/2021/file/c46489a2d5a9a9ecfc53b17610926ddd-Paper.pdf",
-            "source": "https://github.com/MadryLab/EditingClassifiers"             
-        },
-        {
             "name": "Interpretability Beyond Feature Attribution:Quantitative Testing with Concept Activation Vectors (TCAV)",
             "venue": "ICML 2018",
             "affiliation": "Google",

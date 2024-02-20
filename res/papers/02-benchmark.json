@@ -7,6 +7,13 @@
             "affiliation": "USC",
             "link": "https://arxiv.org/pdf/1911.03705.pdf",
             "source": "https://github.com/INK-USC/CommonGen"
+        },
+        {
+            "name": "VerSe: A Vertebrae Labelling and Segmentation Benchmark for Multi-detector CT Images",
+            "venue": "Medical image analysis 2021",
+            "affiliation": "Technical University of Munich",
+            "link": "https://arxiv.org/abs/2001.09193",
+            "source": "https://github.com/anjany/verse"
         }
     ]
 }

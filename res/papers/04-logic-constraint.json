@@ -34,6 +34,41 @@
             "affiliation": "UW",
             "link": "https://arxiv.org/pdf/2010.12884.pdf",
             "source": "https://github.com/GXimingLu/neurologic_decoding"
-        }  
+        },
+        {
+            "venue": "EMNLP 2017",
+            "name": "Guided Open Vocabulary Image Captioning with Constrained Beam Search",
+            "affiliation": "The Australian National University",
+            "link": "https://aclanthology.org/D17-1098.pdf",
+            "source": "https://github.com/nocaps-org/updown-baseline"
+        },           
+        {
+            "venue": "NIPS 2022",
+            "name": "Don't Pour Cereal into Coffee: Differentiable Temporal Logic for Temporal Action Segmentation",
+            "affiliation": "NUS",
+            "link": "https://diff-tl.github.io/assets/docs/dtl_neurips2022.pdf",
+            "source": "https://github.com/ZiweiXU/DTL-action-segmentation"
+        },           
+        {
+            "venue": "AAAI 2021",
+            "name": "MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks",
+            "affiliation": "University of Edinburgh",
+            "link": "https://arxiv.org/pdf/2111.01564.pdf",
+            "source": "https://github.com/NickHoernle/semantic_loss"
+        },           
+        {
+            "venue": "NIPS 2018",
+            "name": "DeepProbLog: Neural Probabilistic Logic Programming",
+            "affiliation": "KU Leuven",
+            "link": "https://arxiv.org/pdf/1805.10872.pdf",
+            "source": "https://github.com/ML-KULeuven/deepproblog"
+        },
+        {
+            "venue": "ICML 2022",
+            "name": "Injecting Logical Constraints into Neural Networks via Straight-Through Estimators",
+            "affiliation": "Arizona State University",
+            "link": "https://arxiv.org/pdf/2307.04347.pdf",
+            "source": "https://github.com/azreasoners/cl-ste"
+        }
     ]
 }
