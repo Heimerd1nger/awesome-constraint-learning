@@ -24,7 +24,7 @@ A list of awesome resources related to constraint learning
 ### Data Augmentation
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
-|CVPR 2015|Hyper-class Augmented and Regularized Deep Learning for Fine-grained Image Classification|UCSD| [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xie_Hyper-Class_Augmented_and_2015_CVPR_paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-231-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|CVPR 2015|Hyper-class Augmented and Regularized Deep Learning for Fine-grained Image Classification|UCSD| [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xie_Hyper-Class_Augmented_and_2015_CVPR_paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-233-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Logical Constraints
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
