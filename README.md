@@ -13,7 +13,7 @@ A list of awesome resources related to constraint learning
 ### Survey Papers
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
-|IJCAI 2022|Deep Learning with Logical Constraints|University of Oxford| [[paper]](https://arxiv.org/pdf/2205.00523.pdf)![Scholar citations](https://img.shields.io/badge/Citations-55-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|IJCAI 2022|Deep Learning with Logical Constraints|University of Oxford| [[paper]](https://arxiv.org/pdf/2205.00523.pdf)![Scholar citations](https://img.shields.io/badge/Citations-56-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |TKDE 2019|Informed machine learning-a taxonomy and survey of integrating prior knowledge into learning systems|Fraunhofer IAIS| [[paper]](https://arxiv.org/pdf/1903.12394.pdf)![Scholar citations](https://img.shields.io/badge/Citations-668-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |Scientific Reports 2022|A review of some techniques for inclusion of domain-knowledge into deep neural networks|| [[paper]](https://www.nature.com/articles/s41598-021-04590-0)![Scholar citations](https://img.shields.io/badge/Citations-125-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Benchmark
@@ -24,7 +24,7 @@ A list of awesome resources related to constraint learning
 ### Data Augmentation
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
-|CVPR 2015|Hyper-class Augmented and Regularized Deep Learning for Fine-grained Image Classification|UCSD| [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xie_Hyper-Class_Augmented_and_2015_CVPR_paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-231-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|CVPR 2015|Hyper-class Augmented and Regularized Deep Learning for Fine-grained Image Classification|UCSD| [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xie_Hyper-Class_Augmented_and_2015_CVPR_paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-232-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Logical Constraints
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
@@ -55,4 +55,4 @@ A list of awesome resources related to constraint learning
 | :---: | :---: | :---------: | :---: | :----: |
 |ECCV 2020|Rewriting a Deep Generative Model|MIT| [[paper]](https://arxiv.org/pdf/2007.15646.pdf)![Scholar citations](https://img.shields.io/badge/Citations-113-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/davidbau/rewriting)![GitHub stars](https://img.shields.io/github/stars/davidbau/rewriting.svg?logo=github&label=Stars)|
 |NIPS 2021|Editing a classifier by rewriting its prediction rules|MIT| [[paper]](https://proceedings.neurips.cc/paper/2021/file/c46489a2d5a9a9ecfc53b17610926ddd-Paper.pdf)![Scholar citations](https://img.shields.io/badge/Citations-67-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/MadryLab/EditingClassifiers)![GitHub stars](https://img.shields.io/github/stars/MadryLab/EditingClassifiers.svg?logo=github&label=Stars)|
-|arxiv 2024|DeepEdit: Knowledge Editing as Decoding with Constraints|UCLA| [[paper]](https://arxiv.org/pdf/2401.10471.pdf)![Scholar citations](https://img.shields.io/badge/Citations-5-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/wangywUST/DeepEdit)![GitHub stars](https://img.shields.io/github/stars/wangywUST/DeepEdit.svg?logo=github&label=Stars)|
+|arxiv 2024|DeepEdit: Knowledge Editing as Decoding with Constraints|UCLA| [[paper]](https://arxiv.org/pdf/2401.10471.pdf)![Scholar citations](https://img.shields.io/badge/Citations-6-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/wangywUST/DeepEdit)![GitHub stars](https://img.shields.io/github/stars/wangywUST/DeepEdit.svg?logo=github&label=Stars)|
