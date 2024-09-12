@@ -14,13 +14,13 @@ A list of awesome resources related to constraint learning
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |IJCAI 2022|Deep Learning with Logical Constraints|University of Oxford| [[paper]](https://arxiv.org/pdf/2205.00523.pdf)![Scholar citations](https://img.shields.io/badge/Citations-63-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|TKDE 2019|Informed machine learning-a taxonomy and survey of integrating prior knowledge into learning systems|Fraunhofer IAIS| [[paper]](https://arxiv.org/pdf/1903.12394.pdf)![Scholar citations](https://img.shields.io/badge/Citations-742-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|TKDE 2019|Informed machine learning-a taxonomy and survey of integrating prior knowledge into learning systems|Fraunhofer IAIS| [[paper]](https://arxiv.org/pdf/1903.12394.pdf)![Scholar citations](https://img.shields.io/badge/Citations-743-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |Scientific Reports 2022|A review of some techniques for inclusion of domain-knowledge into deep neural networks|| [[paper]](https://www.nature.com/articles/s41598-021-04590-0)![Scholar citations](https://img.shields.io/badge/Citations-143-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Benchmark
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |EMNLP 2020|CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning|USC| [[paper]](https://arxiv.org/pdf/1911.03705.pdf)![Scholar citations](https://img.shields.io/badge/Citations-343-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/INK-USC/CommonGen)![GitHub stars](https://img.shields.io/github/stars/INK-USC/CommonGen.svg?logo=github&label=Stars)|
-|Medical image analysis 2021|VerSe: A Vertebrae Labelling and Segmentation Benchmark for Multi-detector CT Images|Technical University of Munich| [[paper]](https://arxiv.org/abs/2001.09193)![Scholar citations](https://img.shields.io/badge/Citations-228-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/anjany/verse)![GitHub stars](https://img.shields.io/github/stars/anjany/verse.svg?logo=github&label=Stars)|
+|Medical image analysis 2021|VerSe: A Vertebrae Labelling and Segmentation Benchmark for Multi-detector CT Images|Technical University of Munich| [[paper]](https://arxiv.org/abs/2001.09193)![Scholar citations](https://img.shields.io/badge/Citations-229-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/anjany/verse)![GitHub stars](https://img.shields.io/github/stars/anjany/verse.svg?logo=github&label=Stars)|
 ### Data Augmentation
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
