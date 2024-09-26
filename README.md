@@ -19,7 +19,7 @@ A list of awesome resources related to constraint learning
 ### Benchmark
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
-|EMNLP 2020|CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning|USC| [[paper]](https://arxiv.org/pdf/1911.03705.pdf)![Scholar citations](https://img.shields.io/badge/Citations-343-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/INK-USC/CommonGen)![GitHub stars](https://img.shields.io/github/stars/INK-USC/CommonGen.svg?logo=github&label=Stars)|
+|EMNLP 2020|CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning|USC| [[paper]](https://arxiv.org/pdf/1911.03705.pdf)![Scholar citations](https://img.shields.io/badge/Citations-344-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/INK-USC/CommonGen)![GitHub stars](https://img.shields.io/github/stars/INK-USC/CommonGen.svg?logo=github&label=Stars)|
 |Medical image analysis 2021|VerSe: A Vertebrae Labelling and Segmentation Benchmark for Multi-detector CT Images|Technical University of Munich| [[paper]](https://arxiv.org/abs/2001.09193)![Scholar citations](https://img.shields.io/badge/Citations-235-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)| [[code]](https://github.com/anjany/verse)![GitHub stars](https://img.shields.io/github/stars/anjany/verse.svg?logo=github&label=Stars)|
 ### Data Augmentation
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
