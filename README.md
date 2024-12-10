@@ -14,7 +14,7 @@ A list of awesome resources related to constraint learning
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
 | :---: | :---: | :---------: | :---: | :----: |
 |IJCAI 2022|Deep Learning with Logical Constraints|University of Oxford| [[paper]](https://arxiv.org/pdf/2205.00523.pdf)![Scholar citations](https://img.shields.io/badge/Citations-72-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
-|TKDE 2019|Informed machine learning-a taxonomy and survey of integrating prior knowledge into learning systems|Fraunhofer IAIS| [[paper]](https://arxiv.org/pdf/1903.12394.pdf)![Scholar citations](https://img.shields.io/badge/Citations-825-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
+|TKDE 2019|Informed machine learning-a taxonomy and survey of integrating prior knowledge into learning systems|Fraunhofer IAIS| [[paper]](https://arxiv.org/pdf/1903.12394.pdf)![Scholar citations](https://img.shields.io/badge/Citations-826-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 |Scientific Reports 2022|A review of some techniques for inclusion of domain-knowledge into deep neural networks|| [[paper]](https://www.nature.com/articles/s41598-021-04590-0)![Scholar citations](https://img.shields.io/badge/Citations-167-_.svg?logo=google-scholar&labelColor=4f4f4f&color=3388ee)||
 ### Benchmark
 | Venue | Title | Affiliation | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Source&nbsp;&nbsp; |
